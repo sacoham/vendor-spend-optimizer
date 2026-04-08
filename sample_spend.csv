@@ -1,0 +1,76 @@
+Date,Vendor,Category,Amount,Employee
+2024-01-02,Amazon Web Services,Cloud Infrastructure,4200.00,Engineering
+2024-01-02,AWS,Cloud Infrastructure,380.00,Engineering
+2024-01-03,Slack,Collaboration SaaS,1200.00,IT
+2024-01-03,Microsoft Teams,Collaboration SaaS,890.00,IT
+2024-01-04,Notion,Project Management,540.00,Product
+2024-01-04,Asana,Project Management,720.00,Operations
+2024-01-04,Monday.com,Project Management,480.00,Marketing
+2024-01-05,Google Workspace,Productivity SaaS,980.00,IT
+2024-01-05,Microsoft 365,Productivity SaaS,760.00,Finance
+2024-01-08,Zoom,Video Conferencing,440.00,IT
+2024-01-08,Google Meet,Video Conferencing,0.00,IT
+2024-01-09,Salesforce,CRM,3200.00,Sales
+2024-01-09,HubSpot,CRM,1800.00,Marketing
+2024-01-10,Figma,Design,480.00,Design
+2024-01-10,Adobe Creative Cloud,Design,620.00,Design
+2024-01-11,GitHub,Developer Tools,420.00,Engineering
+2024-01-11,GitLab,Developer Tools,390.00,Engineering
+2024-01-12,Datadog,Monitoring,1100.00,Engineering
+2024-01-12,New Relic,Monitoring,890.00,Engineering
+2024-01-15,Stripe,Payment Processing,220.00,Finance
+2024-01-15,Delta Airlines,Travel,1840.00,Sales
+2024-01-16,Uber,Travel,340.00,Sales
+2024-01-16,Marriott Hotels,Travel,2200.00,Sales
+2024-01-17,Amazon Web Services,Cloud Infrastructure,510.00,Data
+2024-01-18,Twilio,Communications API,780.00,Engineering
+2024-01-19,SendGrid,Communications API,340.00,Marketing
+2024-01-22,Rippling,HR & Payroll,1400.00,HR
+2024-01-23,Gusto,HR & Payroll,890.00,Finance
+2024-01-24,Expensify,Expense Management,320.00,Finance
+2024-01-25,Brex,Expense Management,180.00,Finance
+2024-01-26,LinkedIn Ads,Advertising,2400.00,Marketing
+2024-01-26,Google Ads,Advertising,3800.00,Marketing
+2024-01-29,Webflow,Website,480.00,Marketing
+2024-01-30,Loom,Video & Async,220.00,Product
+2024-01-30,Loom Inc,Video & Async,180.00,Engineering
+2024-01-31,OpenAI,AI Services,640.00,Engineering
+2024-02-01,Amazon AWS,Cloud Infrastructure,4600.00,Engineering
+2024-02-01,Slack Technologies,Collaboration SaaS,1200.00,IT
+2024-02-02,Notion Labs,Project Management,540.00,Product
+2024-02-05,Salesforce CRM,CRM,3200.00,Sales
+2024-02-06,Figma Inc,Design,480.00,Design
+2024-02-07,GitHub Inc,Developer Tools,420.00,Engineering
+2024-02-08,Datadog Inc,Monitoring,1100.00,Engineering
+2024-02-12,United Airlines,Travel,2100.00,Sales
+2024-02-13,Hilton Hotels,Travel,1800.00,Sales
+2024-02-14,Lyft,Travel,290.00,Sales
+2024-02-15,Rippling HR,HR & Payroll,1400.00,HR
+2024-02-19,LinkedIn Ads,Advertising,2600.00,Marketing
+2024-02-20,Google Ads,Advertising,4100.00,Marketing
+2024-02-21,OpenAI API,AI Services,920.00,Engineering
+2024-02-22,Anthropic,AI Services,480.00,Product
+2024-02-26,Zoom Video,Video Conferencing,440.00,IT
+2024-02-27,Webflow Inc,Website,480.00,Marketing
+2024-02-28,Twilio Inc,Communications API,810.00,Engineering
+2024-03-01,AWS Cloud,Cloud Infrastructure,5100.00,Engineering
+2024-03-04,Slack,Collaboration SaaS,1200.00,IT
+2024-03-05,Asana Inc,Project Management,720.00,Operations
+2024-03-06,Monday,Project Management,480.00,Marketing
+2024-03-07,HubSpot CRM,CRM,1800.00,Marketing
+2024-03-08,Adobe CC,Design,620.00,Design
+2024-03-11,GitLab Inc,Developer Tools,390.00,Engineering
+2024-03-12,New Relic Inc,Monitoring,890.00,Engineering
+2024-03-13,Delta Air Lines,Travel,1560.00,Sales
+2024-03-14,Airbnb,Travel,1240.00,Sales
+2024-03-15,Gusto Payroll,HR & Payroll,890.00,Finance
+2024-03-18,Google Ads,Advertising,3900.00,Marketing
+2024-03-19,Facebook Ads,Advertising,1800.00,Marketing
+2024-03-20,OpenAI,AI Services,1100.00,Engineering
+2024-03-21,Perplexity AI,AI Services,240.00,Product
+2024-03-22,Midjourney,AI Services,180.00,Design
+2024-03-25,Intercom,Customer Support,1200.00,Customer Success
+2024-03-26,Zendesk,Customer Support,980.00,Customer Success
+2024-03-27,Loom,Video & Async,220.00,Product
+2024-03-28,Notion,Project Management,540.00,Product
+2024-03-29,Stripe,Payment Processing,190.00,Finance
